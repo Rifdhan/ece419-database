@@ -1,0 +1,11 @@
+echoClient/echoClient.jar
+echoServer/echoServer.jar
+**/*.log
+**/bin/
+m1-client.jar
+m1-server.jar
+m1-server-perf-test.jar
+CLIENT_MANIFEST.MF
+SERVER_MANIFEST.MF
+SERVER_PERF_TEST_MANIFEST.MF
+data
